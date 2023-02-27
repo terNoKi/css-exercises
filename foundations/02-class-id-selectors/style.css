@@ -1,0 +1,16 @@
+.class-1{
+    background-color: palevioletred;
+    font-size: 18px;
+}
+#id-1{
+    color: blue;
+    font-size: 50px;
+}
+.bigger-font{
+    font-size: 40px;
+}
+#id-2{
+    font-size: 40px;
+    background-color: lightgreen;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+.click-me{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.yes{
+    background-color: black;
+    color: white;
+    border: 2px grey;
+}
+.no{
+    background-color: yellow;
+    color: black;
+    border: 3px grey;
+}
